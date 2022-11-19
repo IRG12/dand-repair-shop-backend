@@ -1,0 +1,8 @@
+- name your data base = techNotesDB
+    first collection = users
+
+
+- Your MongoDb User(dan1) and Password(password123456)
+
+- MongoDb connection string --> mongodb+srv://dan1:<password>@cluster0.3oxlnyv.mongodb.net/?retryWrites=true&w=majority
+
