@@ -1,3 +1,3 @@
-const allowedOrigins = ["https://dand-repair-shop.vercel.app"];
+const allowedOrigins = ["https://dand-repair-shop.onrender.com"];
 
 module.exports = allowedOrigins;
